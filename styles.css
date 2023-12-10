@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, "times new roman", sans-serif;
+}
+
+#header {
+    color: rgb(200, 100, 100);
+    text-align: center;
+    font-size: 50px;
+    font-family: "gill sans", sans-serif;
+}
+
+.list {
+    font-size: 30px;
+    background-color: rgb(223, 144, 27);
+    text-align: center;
+}
+
+.div {
+    font-size: 30px;
+    color: brown;
+    
+
+}
